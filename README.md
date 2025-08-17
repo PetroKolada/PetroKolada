@@ -20,21 +20,6 @@
 
 ---
 
-## 📊 GitHub статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-## 🏆 Трофеи
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 🎯 Принципы кода
 - 📌 **Прямолинейность** → минимум скрытой логики  
 - 📌 **Ясность** → код должен быть самодокументированным  
